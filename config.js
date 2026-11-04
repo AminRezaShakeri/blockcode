@@ -3,5 +3,8 @@
 window.BLOKCODE_CONFIG = {
   demoMode: true,
   paymentsEnabled: false,
-  paymentSandbox: true
+  paymentSandbox: true,
+  cardTransferEnabled: false,
+  cardTransferCardNumber: "",
+  cardTransferCardHolder: ""
 };
